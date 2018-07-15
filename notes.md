@@ -26,6 +26,9 @@
 - E - Forward to the next end of WORD
 - 0 - Move to the zeroth character of the line
 - $ - Move you to the last character of the line
+- GG - Go to the end of the file
+- gg - Go the the first line of the file
+
  
 ## Slightly less basic: fFtT
 ## All follow [(n)um]<verb><n()un> syntax
